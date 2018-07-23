@@ -215,7 +215,7 @@ public class Matrix
 		return same;
 	}
 	
-	public boolean isSemetric()
+	public boolean isSymetric()
 	{
 		boolean symetry = false;
 		Matrix b = this.transpose();
